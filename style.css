@@ -37,6 +37,8 @@ html {
 }
 .card
 {
+
+  background-color: lightblue;
   width: 350px;
   height: 200px;
   margin: 10px;
