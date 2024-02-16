@@ -22,7 +22,7 @@ html {
 }
 
 .card h2, .card p {
-  margin: 5;
+  margin: 0;
 }
 
 
@@ -30,7 +30,7 @@ html {
 
 .card header, .card footer {
   height: 3em;
-  padding: 1em;
+  padding: 6em;
 }
 
 .card header {
