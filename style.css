@@ -21,10 +21,6 @@ html {
   border-radius: 1.5em;
 }
 
-.card h2, .card p {
-  margin: 10;
-}
-
 /* Header and footer */
 
 .card header, .card footer {
