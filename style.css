@@ -13,8 +13,8 @@ html {
 /* card setup */
 
 .card {
-  width: 35em;
-  height: 22em;
+  width: 50em;
+  height: 25em;
   margin: 5em auto;
   background-color: green;
   border: 0.2em solid black;
@@ -30,7 +30,7 @@ html {
 
 .card header, .card footer {
   height: 3em;
-  padding: 1em;
+  padding: 10px;
 }
 
 .card header {
@@ -66,6 +66,6 @@ html {
 }
 
 .card article p {
-  padding: 1em;
+  padding: 10px;
   color: rgba(255,255,255,0.8);
 }
