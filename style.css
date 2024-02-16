@@ -22,7 +22,7 @@ html {
 }
 
 .card h2, .card p {
-  margin: 0;
+  margin: 10;
 }
 
 /* Header and footer */
